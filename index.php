@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body style="background-color: black;">
+<body>
     <h1 style="color: black;">Activity #5</h1>
     <a> </a>
     <a style="color: black;">Mark John B. Matinig & Jabiel Angelo C. Madrono | BSI/T-2A</a>
