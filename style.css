@@ -14,14 +14,14 @@ body
     transform: translate(-50%,-50%);
     display: block;
     position: absolute;
-    background-image: linear-gradient(#36c561,#104710);
+    background-image: linear-gradient(#014916,#032003);
 }
 .music-header
 {
     width: 100%;
     height: 50px;
     border-bottom: 1px solid #305e43;
-    background-image: linear-gradient(#36c561, #104710);
+    background-image: linear-gradient(#014916,#032003);
 }
 .music-header .fa-angle-left
 {
@@ -159,7 +159,7 @@ hr
     width: 100%;
     height: 60px;
     display: flex;
-    background-image: linear-gradient(#36c561,#104710);
+    background-image: linear-gradient(#014916,#032003);
 }
 .play-image img
 {
