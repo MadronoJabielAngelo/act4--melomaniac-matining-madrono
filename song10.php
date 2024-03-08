@@ -9,7 +9,7 @@ echo "<div style='text-align: center;'>";
 echo "<p>";
 echo "<h2>Best Friend</h2>";
 
-// Verse
+
 echo "[Verse]<br>";
 echo "C         G       Am              Em          F<br>";
 echo "Do you remember when I said I'd always be there.<br>";
@@ -20,7 +20,7 @@ echo "When we were out on the playground playing pretend.<br>";
 echo "           G<br>";
 echo "I didn't know it back then.<br><br>";
 
-// Pre-Chorus
+
 echo "[Pre-Chorus]<br>";
 echo "C         G    Am            Em     F<br>";
 echo "Now I realize you were the only one<br>";
@@ -31,7 +31,7 @@ echo "Grow old together, Have feelings we had before<br>";
 echo "                        G<br>";
 echo "Back when we were so innocent<br><br>";
 
-// Refrain
+
 echo "[Refrain]<br>";
 echo "                             C<br>";
 echo "I pray for all your love<br>";
@@ -46,7 +46,7 @@ echo "And I don't know how it ends girl<br>";
 echo "                  G<br>";
 echo "but I fell in love with my Best Friend<br><br>";
 
-// Bridge
+
 echo "[Bridge]<br>";
 echo "C   G               Am<br>";
 echo "I know it sounds crazy<br>";
@@ -71,7 +71,7 @@ echo "Hoping, praying<br>";
 echo "                  G<br>";
 echo "You'd fall in love with your best friend<br><br>";
 
-// Refrain (Repeated)
+
 echo "[Refrain] x2<br>";
 echo "                             C<br>";
 echo "I pray for all your love<br>";
@@ -86,7 +86,7 @@ echo "And I don't know how it ends girl<br>";
 echo "                  G<br>";
 echo "but I fell in love with my Best Friend<br><br>";
 
-// Outro
+
 echo "[Outro]<br>";
 echo "C  G          Am               Em        F<br>";
 echo "I remember when I said I'd always be there<br>";
