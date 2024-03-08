@@ -153,7 +153,6 @@
                 </div>
                 <div class="play-icon" onclick="toggleAudio()">
                     <i class="fa fa-step-backward"></i>
-                    <!-- Add an audio element with your MP3 file -->
                     <audio id="audioPlayer" src="Audio.mp3"></audio>
                     <i id="playPauseBtn" class="fa fa-play"></i>
                     <i class="fa fa-step-forward"></i>
