@@ -8,7 +8,7 @@ echo "<div style='text-align: center;'>";
 
 echo "<p>";
 echo "<h2>Best Friend</h2>";
-// Verse 1
+
 echo "[Verse]<br>";
 echo "F#<br>";
 echo "I should have stayed at home<br>";
@@ -23,7 +23,7 @@ echo "But no it wasn't meant to be and see I wasn't made for you and you weren't
 echo "G#m7     D C#<br>";
 echo "Though it seemed so easy...<br><br>";
 
-// Chorus
+
 echo "[Chorus]<br>";
 echo "F#<br>";
 echo "You're gonna wanna be my best friend baby<br>";
@@ -52,7 +52,7 @@ echo "But I know, know, know, know<br>";
 echo "Bm                             F#<br>";
 echo "Know, know, know, oh...<br><br>";
 
-// Verse 2
+
 echo "[Verse]<br>";
 echo "F#                        A#<br>";
 echo "I still wanna be your favourite boy<br>";
@@ -67,12 +67,12 @@ echo "I'll be your biggest fan and you'll be mine<br>";
 echo "Bm<br>";
 echo "But I still wanna break your heart and make you cry...<br><br>";
 
-// Interlude
+
 echo "[Interlude]<br>";
 echo "F# A#  B  Bm<br>";
 echo "F# A#  B  Bm  F#<br><br>";
 
-// Final Verse
+
 echo "[Verse]<br>";
 echo "F#7                              A#7<br>";
 echo "I still wanna be your favourite boy<br>";
