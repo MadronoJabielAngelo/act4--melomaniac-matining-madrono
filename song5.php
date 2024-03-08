@@ -1,0 +1,150 @@
+<?php
+echo "<html>";
+echo "<head>";
+echo "<title>You'll Be Safe Here Lyrics & Chords</title>";
+echo "</head>";
+echo "<body>";
+echo "<div style='text-align: center;'>";
+echo "<h1>You'll Be Safe Here</h1>"; 
+
+echo "<p>";
+echo "<h2>You'll Be Safe Here</h2>";
+
+echo "[Intro]<br><br>";
+echo "C - G - Dm - Am - G - F<br><br>";
+
+echo "[Verse 1]<br><br>";
+echo "Dm<br>";
+echo "Nobody knows<br>";
+echo "                  Am  G<br>";
+echo "Just why we're here<br>";
+echo "Dm<br>";
+echo "Could it be fate<br>";
+echo "          Am     G<br>";
+echo "Or random circumstance<br>";
+echo "Dm<br>";
+echo "At the right place<br>";
+echo "             Am<br>";
+echo "At the right time<br>";
+echo "G              F<br>";
+echo "Two roads intertwine<br><br>";
+
+echo "Dm                     Am  G<br>";
+echo "And if the universe conspired<br>";
+echo "Dm<br>";
+echo "To meld our lives<br>";
+echo "Am       G<br>";
+echo "To make us<br>";
+echo "Dm<br>";
+echo "Fuel and fire<br>";
+echo "Then know<br>";
+echo "                Am<br>";
+echo "Where ever you will be<br>";
+echo "   G           F<br>";
+echo "So too shall I be<br><br>";
+
+echo "[Chorus]<br><br>";
+echo "                C<br>";
+echo "Close your eyes<br>";
+echo "                G<br>";
+echo "Dry your tears<br>";
+echo "             Dm         F<br>";
+echo "'Coz when nothing seems clear<br>";
+echo "G               C<br>";
+echo "You'll be safe here<br>";
+echo "               G<br>";
+echo "From the sheer weight<br>";
+echo "        Dm<br>";
+echo "Of your doubts and fears<br>";
+echo "      F<br>";
+echo "Weary heart<br>";
+echo "G                  F<br>";
+echo "You'll be safe here<br><br>";
+
+echo "[Verse 2]<br><br>";
+echo "Dm<br>";
+echo "Remember how we laughed<br>";
+echo "      Am        G<br>";
+echo "Until we cried<br>";
+echo "Dm<br>";
+echo "At the most stupid things<br>";
+echo "        Am      G<br>";
+echo "Like we were so high<br>";
+echo "Dm                            Am G<br>";
+echo "But love was all that we were on<br>";
+echo "         F<br>";
+echo "We belong<br><br>";
+
+echo "Dm<br>";
+echo "And though the world would<br>";
+echo "      Am         G<br>";
+echo "Never understand<br>";
+echo "Dm<br>";
+echo "This unlikely union<br>";
+echo "    Am            G<br>";
+echo "And why it still stands<br>";
+echo "Dm                     Am   G<br>";
+echo "Someday we will be set free<br>";
+echo "        F<br>";
+echo "Pray and believe<br><br>";
+
+echo "[Chorus]<br><br>";
+echo "           C             G<br>";
+echo "When the light disappears<br>";
+echo "                Dm           F<br>";
+echo "And when this world's insincere<br>";
+echo "G                  C<br>";
+echo "You'll be safe here<br>";
+echo "G                 Dm<br>";
+echo "When nobody hears you scream<br>";
+echo "    F<br>";
+echo "I'll scream with you<br>";
+echo "G                  C<br>";
+echo "You'll be safe here<br><br>";
+
+echo "[Interlude]<br><br>";
+echo "C - G - Dm - Am - G - F<br><br>";
+
+echo "[Chorus]<br><br>";
+echo "          C<br>";
+echo "Save your eyes<br>";
+echo "          G<br>";
+echo "From your tears<br>";
+echo "           Dm       F<br>";
+echo "When everything's unclear<br>";
+echo "G              C<br>";
+echo "You'll be safe here<br>";
+echo "               G<br>";
+echo "From the sheer weight<br>";
+echo "         Dm<br>";
+echo "Of your doubts and fears<br>";
+echo "        F     G<br>";
+echo "Wounded heart<br>";
+echo "            C        G<br>";
+echo "When the light disappears<br>";
+echo "               Dm           F<br>";
+echo "And when this world's insincere<br>";
+echo "G               C<br>";
+echo "You'll be safe here<br><br>";
+
+echo "[Outro]<br><br>";
+echo "         G              Dm<br>";
+echo "When no one understands<br>";
+echo "     F<br>";
+echo "I'll believe<br>";
+echo "G<br>";
+echo "You'll be safe,<br>";
+echo "C<br>";
+echo "You'll be safe<br>";
+echo "G              F           C<br>";
+echo "You'll be safe here, oohhh<br>";
+echo "         G           F<br>";
+echo "Put your heart in my hands<br>";
+echo "G              C<br>";
+echo "You'll be safe here<br>";
+
+echo "</p>";
+echo "</div>"; 
+echo "</body>";
+echo "</html>";
+?>
