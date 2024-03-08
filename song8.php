@@ -8,11 +8,11 @@ echo "<div style='text-align: center;'>";
 
 echo "<p>";
 echo "<h2>If The World Was Ending</h2>";
-// Intro
+
 echo "[Intro]<br>";
 echo "F G<br><br>";
 
-// Verse 1
+
 echo "[Verse 1]<br>";
 echo "      C<br>";
 echo "I was distracted and in traffic<br>";
@@ -27,14 +27,14 @@ echo "It's been a year now, think I've figured out how<br>";
 echo "               Am<br>";
 echo "How to let you go and let communication die out<br><br>";
 
-// Pre-Chorus
+
 echo "[Pre-Chorus]<br>";
 echo "Am       G         C      Em           F  *<br>";
 echo "I know, you know, we know you weren't down for forever and it's fine<br>";
 echo "Am      G         C      Em          F   *<br>";
 echo "I know, you know, we know we weren't meant for each other and it's fine<br><br>";
 
-// Chorus
+
 echo "[Chorus]<br>";
 echo "                                       F<br>";
 echo "But if the world was ending you'd come over, right?<br>";
@@ -53,7 +53,7 @@ echo "And there wouldn't be a reason why<br>";
 echo "                      Am<br>";
 echo "We would even have to say goodbye<br><br>";
 
-// Verse 2
+
 echo "[Verse 2]<br>";
 echo "           C<br>";
 echo "I tried to imagine your reaction<br>";
@@ -68,14 +68,14 @@ echo "Ah, it's been a year now, think I've figured out how<br>";
 echo "                       Am<br>";
 echo "How to think about you without it rippin' my heart out<br><br>";
 
-// Pre-Chorus
+
 echo "[Pre-Chorus]<br>";
 echo "    Am       G         C      Em           F  *<br>";
 echo "And I know, you know, we know you weren't down for forever and it's fine<br>";
 echo "Am      G         C      Em          F  *<br>";
 echo "I know, you know, we know we weren't meant for each other and it's fine<br><br>";
 
-// Chorus
+
 echo "[Chorus]<br>";
 echo "                                       F<br>";
 echo "But if the world was ending you'd come over, right?<br>";
@@ -98,7 +98,7 @@ echo "If the world was ending you'd come over, right?<br>";
 echo "                      G                                                         C    Am<br>";
 echo "You'd come over, right? You'd come over, you'd come over, you'd come over, right?<br><br>";
 
-// Outro
+
 echo "[Outro]<br>";
 echo "Am*<br>";
 echo "    If the world was ending you'd come over, right?<br>";
